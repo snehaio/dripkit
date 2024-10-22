@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className="bg-gray-100">
+    <div className="bg-[url('https://storage.googleapis.com/a1aa/image/QeZ0sYfBWtoMeJdTRM65ggJylfyg026xeBnGALHhi7DxjIKdC.jpg')]">
       <Navbar />
       <HeroSection />
       <WhatWeOffer />

@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+  background: url(https://storage.googleapis.com/a1aa/image/QeZ0sYfBWtoMeJdTRM65ggJylfyg026xeBnGALHhi7DxjIKdC.jpg);
+}

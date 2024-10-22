@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="relative h-screen flex flex-col justify-center items-center text-center text-white">
+    <section className="relative h-screen flex flex-col justify-center items-center text-center text-white bg-opacity-0">
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-center text-white">
         <h1 className="text-5xl hero-title italic font-mono hover:transform hover:scale-110 transition duration-300">
           DRIPKIT
